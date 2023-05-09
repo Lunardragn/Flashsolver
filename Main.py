@@ -3,7 +3,7 @@ import pyautogui
 import torch
 import cv2
 import tkinter as tk
-
+TODO:fill in the details of the opencv_function, execute_action, check_progression, reward_network, launch_game, save
 # Function to find game process using psutil
 def find_process(process_name):
     for process in psutil.process_iter():
